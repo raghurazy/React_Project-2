@@ -3,7 +3,7 @@ import ProductForm from "./Components/ProductAdd/ProductForm";
 import ProductShowOnScreen from "./Components/ProductShowOnScreen";
 import ProductProvider from "./Store/ProductProvider";
 import CartProvider from "./Store/CartProvider";
-import  Modal  from "@mui/material";
+import {Modal}  from "@mui/material";
 
 import Cart from "./Components/Cart";
 import { useState } from "react";
